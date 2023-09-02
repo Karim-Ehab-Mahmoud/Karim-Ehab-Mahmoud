@@ -23,5 +23,3 @@
 <a href="https://t.me/kariimehab" target="_blank"><img src="https://img.shields.io/badge/-Karim%20Ehab-0077B5?style=for-the-badge&logo=Telegram&logoColor=white"/></a>
 
 
-<img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=Karimehab999&show_icons=true&locale=en&layout=compact&theme=radical" alt="most used languages" />
-<br>
